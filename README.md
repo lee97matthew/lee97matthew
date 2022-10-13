@@ -1,4 +1,12 @@
-### Hi there 👋
+## Who Am I? :eyes:
+
+### Hello👋, I'm Matthew :bow:
+
+:computer: I'm currently working on my Information Systems Capstone Project!! <br />
+------ Working with Spring Boot, JPA Hibernate, ReactJs, MySQL ------ <br /> 
+:star2: I'm more comfortable on Backend, but am interested in learning more of Frontend technologies as well <br />
+:mount_fuji: I'm an avid Rock Climber, so if I'm not at my computer, I'm probably climbing up a wall somewhere <br />
+📫 Do contact me at : leematthew97@u.nus.edu or lee97matthew@gmail.com
 
 <!--
 **lee97matthew/lee97matthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
